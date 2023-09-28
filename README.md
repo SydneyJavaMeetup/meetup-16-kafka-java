@@ -40,6 +40,7 @@ Ethos, vibe
 
 # Links
 
-#### Kafka and Java
-https://github.com/GreenGoat/kafka-example
+#### Kafka and Java Talk
+
+Source Code: https://github.com/GreenGoat/kafka-example  
 
