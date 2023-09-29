@@ -44,3 +44,6 @@ Ethos, vibe
 
 Source Code: https://github.com/GreenGoat/kafka-example  
 
+#### FinOps - Improve Java warmup & throughput and reduce Cloud infra costs without changing a line of code
+
+Slides: [High Performance JVMs.pdf](High%20Performance%20JVMs.pdf)
